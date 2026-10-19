@@ -1,0 +1,12 @@
+v: 0
+run: 20261019T102559Z-dependency-fadf
+repo: zkorus/orus-test-dep-app-aea6
+role: dependency
+item: "#1"
+machine: m-01c5844e
+attempt: 2
+state: running
+resumes: null
+started: 2026-10-19T10:25:59Z
+role_commit: c052efb25a753ccd6d94b7edd403cde75cac0552
+agent: false
