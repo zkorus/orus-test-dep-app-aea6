@@ -2,9 +2,5 @@ v: 0
 dependencies:
   - name: orus-test-dep-lib-aea6
     repository: zkorus/orus-test-dep-lib-aea6
-    version: v0.1.0
+    version: v0.2.0
     constraint: 0.x
-    waiting_on:
-      - issue: zkorus/orus-test-dep-lib-aea6#1
-        for: "#1"
-        fingerprint: fp:16f84b36b5aaa28d
