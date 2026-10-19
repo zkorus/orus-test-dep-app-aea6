@@ -1,0 +1,6 @@
+v: 0
+dependencies:
+  - name: orus-test-dep-lib-aea6
+    repository: zkorus/orus-test-dep-lib-aea6
+    version: v0.1.0
+    constraint: 0.x
