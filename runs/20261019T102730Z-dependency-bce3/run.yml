@@ -18,3 +18,7 @@ gate:
 pushed:
   branch: orus/bump/orus-test-dep-lib-aea6-0-2-0
   sha: 7733786cdeec59afa3882f048c9e266dd9865b9b
+checkpoint:
+  name: action
+  number: 1
+  at: 2026-10-19T10:28:51Z
