@@ -1,0 +1,11 @@
+v: 0
+run: 20261019T102730Z-dependency-bce3
+repo: zkorus/orus-test-dep-app-aea6
+role: dependency
+item: "#3"
+machine: m-01c5844e
+attempt: 1
+state: running
+resumes: null
+started: 2026-10-19T10:27:30Z
+role_commit: 0133dc34909dd0e9a2de96dfc34423e75b633256
