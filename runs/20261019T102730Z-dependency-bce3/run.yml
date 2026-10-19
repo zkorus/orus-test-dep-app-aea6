@@ -5,7 +5,7 @@ role: dependency
 item: "#3"
 machine: m-01c5844e
 attempt: 1
-state: running
+state: finished
 resumes: null
 started: 2026-10-19T10:27:30Z
 role_commit: 0133dc34909dd0e9a2de96dfc34423e75b633256
@@ -18,7 +18,5 @@ gate:
 pushed:
   branch: orus/bump/orus-test-dep-lib-aea6-0-2-0
   sha: 7733786cdeec59afa3882f048c9e266dd9865b9b
-checkpoint:
-  name: action
-  number: 1
-  at: 2026-10-19T10:28:51Z
+ended: 2026-10-19T10:28:59Z
+reason: 2 actions performed
